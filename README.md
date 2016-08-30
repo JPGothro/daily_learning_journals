@@ -10,3 +10,4 @@ Log of all daily journals
 - Day 8...
 - Day 9
 - Day 10, end of week 2!
+- Day 11, starting week 3.
