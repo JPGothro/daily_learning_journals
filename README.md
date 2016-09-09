@@ -15,3 +15,4 @@ Log of all daily journals
 - Day 13 added.
 - Day 14!
 - We skipped to day 17?
+- Day 18
